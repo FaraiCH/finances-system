@@ -1,0 +1,8 @@
+{
+    "name": "pkurg/eterna-theme",
+    "type": "october-theme",
+    "description": "Eterna is an awesome responsive bootstrap website template, professionally designed for any kind websites. Eterna is coded carefully, all template files are organized and well structured so it's very customizable and developer/newbie friendly. Multiple pages are included in this template with lots of ready made sections.",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
